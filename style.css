@@ -1,9 +1,20 @@
 p{
-color: red;
+color: silver;
+font-family:serif;
+text-align: center
 }
 ul{
-color: red;
+color: lime;
 }
 ol{
-color: red;
+color: blue;
+font-family: serif;
+}
+h1{
+color: purple;
+font-family: sans-serif;
+text-align: center
+}
+body{
+background-color: teal;
 }
