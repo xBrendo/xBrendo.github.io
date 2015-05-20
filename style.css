@@ -21,6 +21,13 @@ color:#023C25;
 body{
 background-color: #748FA6;
 }
+img{
+border-style: ridge;
+border-width: 10px;
+}
+span{
+text-decoration:overline;
+}
 nav{
 text-align: center;
 }
