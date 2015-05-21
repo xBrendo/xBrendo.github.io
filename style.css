@@ -1,7 +1,9 @@
 p{
 color: #115A3C;
 font-family:serif;
-text-align: center
+text-align: center;
+display:inline-block;
+vertical-align: top;
 }
 ul{
 color: #153855;
@@ -24,6 +26,8 @@ background-color: #748FA6;
 img{
 border-style: ridge;
 border-width: 10px;
+display: inline-block;
+vertical-align: top;
 }
 span{
 text-decoration:overline;
