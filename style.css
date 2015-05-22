@@ -1,33 +1,31 @@
 p{
-color: #115A3C;
+color: #0F2C64;
 font-family:serif;
-text-align: center;
-display:inline-block;
-vertical-align: top;
 }
 ul{
-color: #153855;
+color: #0A4600;
 }
 ol{
-color: blue;
+color: #0A4600;
 font-family: serif;
 }
 h1{
-color: #023C25;
+color: #051838;
 font-family: sans-serif;
 text-align: center;
 }
 h2{
-color:#023C25;
+color:#051838;
+clear: left;
+text-align: center;
 }
 body{
-background-color: #748FA6;
+background-color: #42847D;
 }
 img{
 border-style: ridge;
 border-width: 10px;
-display: inline-block;
-vertical-align: top;
+float: left;
 }
 span{
 text-decoration:overline;
@@ -38,7 +36,7 @@ text-align: center;
 nav ul{
 padding-left: 0;
 margin-left: 0; 
-background-color:#373678;
+background-color:#051838;
 color: White;
 float: left;
 width: 100%;
@@ -49,13 +47,13 @@ display: inline;
 }
 nav ul li a{
 padding: 0.2em 1em;
-background-color:#373678;
+background-color:#051838;
 color: white;
 text-decoration: none;
 text-transform: uppercase;
-border-right: 5px solid #748FA6;
-border-left: 5px solid #748FA6;
+border-right: 5px solid #42847D;
+border-left: 5px solid #42847D;
 }
 nav ul li a:hover{
-background-color: #595895;
+background-color: #152C55;
 }
