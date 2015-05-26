@@ -10,7 +10,7 @@ color: #0A4600;
 font-family: serif;
 }
 h1{
-color: #051838;
+color: 
 font-family: sans-serif;
 text-align: center;
 }
@@ -19,20 +19,22 @@ color:#051838;
 clear: left;
 text-align: center;
 }
+div{
+background: #95DCDC; 
+padding: 20px;
+}
 body{
-margin-left: 400px;
-margin-right: 400px;
+margin-left: 380px;
+margin-right: 380px;
 width: 800px;
 border-style:solid;
-border-radius: 10px/50px;
+border-width: 10px;
 box-shadow: 7px 7px 4px 2px #999;
-padding: 20px;
-background: url(http://animalia-life.com/data_images/dog/dog4.jpg) 0 0 no-repeat;
-background-origin: padding-box;
 }
 img{
 border-style: ridge;
 border-width: 10px;
+border-radius: 10px/50px;
 float: left;
 }
 span{
@@ -59,8 +61,8 @@ background-color:#051838;
 color: white;
 text-decoration: none;
 text-transform: uppercase;
-border-right: 5px solid;
-border-left: 5px solid;
+border-right: 5px solid #95DCDC;
+border-left: 5px solid #95DCDC;
 }
 nav ul li a:hover{
 background-color: #152C55;
