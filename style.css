@@ -37,6 +37,8 @@ border-style: ridge;
 border-width: 10px;
 border-radius: 10px/50px;
 float: left;
+margin-right: 20px;
+margin-bottom: 20px;
 }
 span{
 text-decoration:overline;
