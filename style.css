@@ -66,5 +66,8 @@ border-right: 5px solid #95DCDC;
 border-left: 5px solid #95DCDC;
 }
 nav ul li a:hover{
-background-color: #152C55;
+background-color: #102A95;
+}
+#current{
+background-color: #102A95;
 }
